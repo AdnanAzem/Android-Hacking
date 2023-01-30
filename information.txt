@@ -1,0 +1,141 @@
+Sdk version: 31
+Device: emulator64_x86_64_arm64
+Model: sdk_gphone64_x86_64
+Product: sdk_gphone64_x86_64
+OS version: 12
+Android ID: 4fb2753a56d522cd
+User: android-build
+Brand:google
+Display: sdk_gphone64_x86_64-userdebug 12 SE1A.220826.005 9309864 dev-keys
+Hardware: ranchu
+Bootloader: unknown
+ID: SE1A.220826.005
+Host:abfarm-release-2004-0047
+Serial:unknown
+Manufacturer:Google
+Fingerprint:google/sdk_gphone64_x86_64/emulator64_x86_64_arm64:12/SE1A.220826.005/9309864:userdebug/dev-keys
+build date given in MS since unix epoch: 1668800845000
+Board: goldfish_x86_64
+CPU ABI: x86_64
+Owner Info:
+    Name: adnan.azem.250@gmail.com Type: com.google
+    Name: adnan2828a@gmail.com Type: com.google
+Contacts:
+    Name: ياسمين  Phone number: +972529668334
+    Name: ميرال حاج يحيى  Phone number: +972 52-312-3672
+    Name: احمد(رياضيات)  Phone number: 0525905194
+    Name: عبد اللطيف👨‍🏫  Phone number: +972544550669
+    Name: كريم عازم  Phone number: +972 54-646-7000
+    Name: ابو عوده  Phone number: 0524867463
+    Name: تهليل  Phone number: +972509338233
+    Name: عماد👨‍🏫  Phone number: +972 52-221-5611
+    Name: سيداء اقعيق  Phone number: +972 52-364-4813
+    Name: ديمة  Phone number: +972 53-820-7130
+    Name: ثائر مصاروة (فحل)  Phone number: 0523887783
+    Name: المعلمة ميسون  Phone number: 0525515045
+    Name: هديل مصاروة  Phone number: 0525374664
+    Name: عدن عازم  Phone number: +972 54-738-8350
+    Name: شذى(بسيخومتري)  Phone number: +972 52-883-8511
+    Name: ياسمين المانيا  Phone number: +49 176 28843415
+    Name: حمودي دعسان  Phone number: 0 54-944-9874
+    Name: المعلمة هديل  Phone number: +972 52-968-8386
+    Name: يزن عبد القادر  Phone number: 054-742-9690
+    Name: انفينيتي  Phone number: 0509000604
+    Name: * המידע 24*  Phone number: *24
+    Name: عزام  Phone number: 0592177771
+    Name: ساجي جمهور  Phone number: 054-595-9769
+    Name: نجيب  Phone number: +972 50-215-6178
+    Name: اسيد(رياضيات)  Phone number: 0528663955
+    Name: ذكرى  Phone number: +972 50-654-7471
+    Name: عبد العزيز  Phone number: 054-635-7300
+    Name: ميس مصاروة  Phone number: +972 52-747-6976
+    Name: اميجوس  Phone number: 0549840681
+    Name: رنين  Phone number: +972 55-226-2090
+    Name: كيان  Phone number: 054-343-4093
+    Name: ابو اليزن  Phone number: +972 52-256-1997
+    Name: محمد(العش)  Phone number: 0524665883
+    Name: محمد عازم  Phone number: +972 54-261-1322
+    Name: * הספורט 15*  Phone number: *15
+    Name: محمد نغم  Phone number: 0502416819
+    Name: محمد(بسيخومتري)  Phone number: 0526715612
+    Name: תא קולי  Phone number: +972522999080
+    Name: عمار  Phone number: 053-223-2557
+    Name: مروان👨‍🏫  Phone number: 0523374852
+    Name: * החרדית 44*  Phone number: *44
+    Name: خالتي انتصار  Phone number: 0544672549
+    Name: سما برانسي  Phone number: +972 54-666-8781
+    Name: מאוחדת  Phone number: 097630100
+    Name: المعلمة عدن  Phone number: 0527978567
+    Name: يوسف جمعة(מנהל H&M)  Phone number: 0527031110
+    Name: بيتسا الكروان  Phone number: 097998884
+    Name: كريم صوان  Phone number: +972525401142
+    Name: يوسف شيخ يوسف  Phone number: +972 58-573-0731
+    Name: مراء  Phone number: +972 54-233-8835
+    Name: حنين عازم  Phone number: +972 52-876-2527
+    Name: هناء اقعيق  Phone number: +972 52-509-2596
+    Name: لين حاج يحيى  Phone number: +972 53-248-8086
+    Name: احمد(بيزك)  Phone number: 0506778891
+    Name: هلا (بسيخومتري)  Phone number: 0526556292
+    Name: محمد زيدان  Phone number: 0524624642
+    Name: امجد جابر  Phone number: +972 52-445-0997
+    Name: نور حاج يحيى  Phone number: +972 54-986-9070
+    Name: رونق مصاروة  Phone number: +972 53-339-6932
+    Name: هلا جبارة  Phone number: 050-992-4997
+    Name: اياد عازم(سواقة)  Phone number: 0524335339
+    Name: كريم مصاروة  Phone number: 0525995664
+    Name: عبيدة حاج يحيى  Phone number: +972 52-797-8123
+    Name: يارا  Phone number: +972 50-266-2061
+    Name: سميحة  Phone number: +972 50-444-3688
+    Name: خالتي ابتسام  Phone number: 0505207001
+    Name: * הבידור 25*  Phone number: *25
+    Name: عمار (سواقة)  Phone number: 0527977555
+    Name: امير جبارة(رياضيات)  Phone number: +972 54-203-4260
+    Name: مدين عازم  Phone number:  052-290-1281
+    Name: نزار👨‍🏫  Phone number: +972549930488
+    Name: זיוה  Phone number: 0542425328
+    Name: خالي خالد  Phone number: +972 52-821-9497
+    Name: منى عازم  Phone number: 0 52-378-8845
+    Name: * הערבית 55*  Phone number: *55
+    Name: انس عازم  Phone number: +972 52-440-7123
+    Name: دنى عازم  Phone number: +972 55-999-9389
+    Name: وسام جابر  Phone number: +972 50-309-5922
+    Name: عدنان ربيع  Phone number: +972 52-474-6540
+    Name: سراج👨‍🏫  Phone number: 0526419638
+    Name: ابو علاء  Phone number: 0509946467
+    Name: عبد السميع  Phone number: +972 54-356-7510
+    Name: رمان (مدرب)  Phone number: 0524020331
+    Name: خالتي تغريد  Phone number: 0525652259
+    Name: يزن مصاروة  Phone number: +972 50-215-3639
+    Name: محمد اجميل  Phone number: +972533318408
+    Name: ستوديو المثلث  Phone number: 0522204146
+    Name: رشا  Phone number: +972 50-269-5331
+    Name: سالي  Phone number: 052-565-6692
+    Name: * הכלכלה 12*  Phone number: *12
+    Name: احمد بلعوم  Phone number: +972527076035
+    Name: سما عازم  Phone number: +972 52-703-3498
+    Name: المعلمة هناء  Phone number: 052-823-1168
+    Name: المعلمة سحر  Phone number:  054-373-3334
+    Name: المعلمة لبنى  Phone number: +972 52-591-4296
+    Name: ابراهيم محاميد  Phone number: 0502040614
+    Name: אחותי  Phone number: 0549086551
+    Name: Dad  Phone number: 0528806988
+Files: 
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Calm/Calm.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Music_box/Music Box.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Nudge/Nudge.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Piggyback/Piggyback.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Shrink_ray/Shrink Ray.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Snap/Snappy.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Sweet/Sweet.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Tennis/Tennis.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Treasure/Treasure.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Welcome/Welcome.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Whistle/Whistle.ogg
+   File:/storage/emulated/0/Android/media/com.google.android.gm/Notifications/Tones/Tones.ogg
+   File:/storage/emulated/0/Music/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Music/.thumbnails/.nomedia
+   File:/storage/emulated/0/Pictures/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Pictures/.thumbnails/.nomedia
+   File:/storage/emulated/0/Movies/.thumbnails/.database_uuid
+   File:/storage/emulated/0/Movies/.thumbnails/.nomedia
+   File:/storage/emulated/0/Download/dragon.jpg
